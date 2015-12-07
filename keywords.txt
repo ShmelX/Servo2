@@ -12,3 +12,4 @@ Servo2	KEYWORD1	Servo2
 #######################################
 attach	KEYWORD2
 write	KEYWORD2
+read KEYWORD2
